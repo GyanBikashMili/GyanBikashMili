@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)]
+![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 <h1 align="center">Hi 👋, I'm Gyan Bikash Mili</h1>
 <h3 align="center">Code, Coffee, and a sprinkle of react!</h3>
