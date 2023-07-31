@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gyan_b_mili" target="blank"><img src="https://img.shields.io/twitter/follow/gyan_b_mili?logo=twitter&style=for-the-badge" alt="gyan_b_mili" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Springboot**
 
-- 💬 Ask me about **Android, Front-end Webdev**
+- 💬 Ask me about **Android, backend development with java**
 
 - 📫 How to reach me **gyanbikashmili@gmail.com**
 
